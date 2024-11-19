@@ -47,7 +47,7 @@ Categories > Facet > Text facet
 
 Typically, after fetching data, you’ll need to parse it.
 
-For example, you can transform the data in the retrieved cells with a regular expression to gather only the title of each object
+For example, you can transform the data in the retrieved cells with a regular expression to gather only the title of each object.
 
 1. `Web Data` > Edit column > Add column based on this column
 2. New Column Name = Web Page Title
