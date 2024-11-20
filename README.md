@@ -75,7 +75,7 @@ Workshop by John Little
    - Separator = `,`
 3. `address 2 1` > Edit column > rename this column > `latitude`
 4. `address 2 2` > Edit column > rename this column > `longitude`
-5. `longitude` > Edit cells > Transform > `value.replace(")", """)`
+5. `longitude` > Edit cells > Transform > `value.replace(")", "")`
 6. `longitude` > Edit cells > Commons transforms > To number
 
 ---
