@@ -33,7 +33,7 @@ Workshop by John Little
 4. In the Facet box, click count
    - What is the 4th most popular type of authorized work?
       - <details><summary>Answer</summary>SCREEN PORCH</details>
-   - How many permits are recorded?
+   - How many permits (rows) exist for that type fo authorized work??
       - <details><summary>Answer</summary>233</details>
 5. To find spelling clusters, click the `Cluster` button in the facet box. Click `Cluster` again.
 6. Click the Select All button, then the Merge Selected & Re-Cluster button, to merge all terms (accepting the default: Method = `key collision` ; Keying Function = `fingerprint`)
