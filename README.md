@@ -35,7 +35,7 @@ Workshop by John Little
       - <details><summary>Answer</summary>SCREEN PORCH</details>
    - How many permits (rows) exist for that type fo authorized work??
       - <details><summary>Answer</summary>233</details>
-5. To find spelling clusters, click the `Cluster` button in the facet box. Click `Cluster` again.
+5. To find spelling clusters, first **make sure none of the facets are selected**. Click the `Cluster` button in the facet box. Click `Cluster` again.
 6. Click the Select All button, then the Merge Selected & Re-Cluster button, to merge all terms (accepting the default: Method = `key collision` ; Keying Function = `fingerprint`)
 7. Repeat previous step using the `ngram-fingerprint` Keying Function, then close the Cluster & Edit dialog box
 8. How many SCREEN PORCH facets now exist? 
