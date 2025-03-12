@@ -1,4 +1,4 @@
-# Openrefine Workshop 20 November 2024
+# Openrefine Workshop 12 March 2025
 
 ## Further Reading:
 
